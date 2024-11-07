@@ -1,0 +1,5 @@
+INSERT INTO TBL_USERS (id, name, address, phone, photo) VALUES (1, 'ale', 'via 1', '+41111222', '12341234a');
+INSERT INTO TBL_USERS (id, name, address, phone, photo) VALUES (2, 'ale', 'via 2', '+41111222', '12341234a');
+INSERT INTO TBL_USERS (id, name, address, phone, photo) VALUES (3, 'ale', 'via 3', '+41111222', '12341234a');
+INSERT INTO TBL_USERS (id, name, address, phone, photo) VALUES (4, 'ale', 'via 4', '+41111222', '12341234a');
+INSERT INTO TBL_USERS (id, name, address, phone, photo) VALUES (5, 'ale', 'via 5', '+41111222', '12341234a');

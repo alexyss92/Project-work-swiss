@@ -1,0 +1,11 @@
+package com.usermanagement.model.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+
+import com.usermanagement.model.UserEntity;
+
+
+public interface UserRepository extends CrudRepository<UserEntity, Long>{
+
+}

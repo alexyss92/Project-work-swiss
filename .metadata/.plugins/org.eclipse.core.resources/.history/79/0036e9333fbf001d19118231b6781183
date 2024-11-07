@@ -1,0 +1,6 @@
+package com.usermanagement.spring.h2database.model;
+
+public class User {
+	private int id;
+	private
+}

@@ -1,0 +1,67 @@
+2023-03-11 10:22:00,435 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-11 10:22:02,485 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.usermanagement:H2DatabaseSetup:0.0.1-SNAPSHOT @ C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\pom.xml.
+2023-03-11 10:22:03,081 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-11 10:22:03,102 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-03-11 10:22:03,107 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\src\test\resources
+2023-03-11 10:22:03,469 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.usermanagement:H2DatabaseSetup:0.0.1-SNAPSHOT @ C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\pom.xml.
+2023-03-11 10:22:04,629 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-11 10:22:04,659 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-03-11 10:22:04,666 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\src\test\resources
+2023-03-11 10:22:11,003 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-03-11 10:22:12,887 [Worker-3: Launching H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup
+2023-03-11 10:22:12,889 [Worker-3: Launching H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always install clean
+2023-03-11 10:22:33,999 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-03-11 10:22:34,010 [Worker-16: Launching H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup
+2023-03-11 10:22:34,010 [Worker-16: Launching H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always install clean
+2023-03-11 10:22:45,665 [Worker-0: Launching Executing install in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup
+2023-03-11 10:22:45,665 [Worker-0: Launching Executing install in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-03-11 10:22:53,318 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-11 10:22:53,328 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-03-11 10:22:53,331 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\src\test\resources
+2023-03-11 10:23:41,706 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-11 10:23:41,844 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.usermanagement:H2DatabaseSetup:0.0.1-SNAPSHOT @ C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\pom.xml.
+2023-03-11 10:23:42,043 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /H2DatabaseSetup/src/main/java
+2023-03-11 10:23:42,044 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /H2DatabaseSetup/src/main/resources
+2023-03-11 10:23:42,044 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /H2DatabaseSetup/src/main/resources
+2023-03-11 10:23:42,045 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /H2DatabaseSetup/src/test/java
+2023-03-11 10:23:42,240 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-03-11 10:23:42,571 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-11 10:23:42,586 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-03-11 10:23:42,590 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\src\test\resources
+2023-03-11 10:23:47,326 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-03-11 10:23:47,333 [Worker-7: Launching H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup
+2023-03-11 10:23:47,333 [Worker-7: Launching H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always install clean
+2023-03-11 10:24:29,530 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2023-03-11 10:24:29,702 [Worker-19: Launching H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup
+2023-03-11 10:24:29,702 [Worker-19: Launching H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests -Dstyle.color=always install clean
+2023-03-11 10:24:38,650 [Worker-0: Launching Executing install in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup
+2023-03-11 10:24:38,650 [Worker-0: Launching Executing install in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-03-11 10:24:46,089 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-11 10:24:46,101 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-03-11 10:24:46,109 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\src\test\resources
+2023-03-11 10:25:13,372 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-11 10:25:13,376 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-11 10:25:13,378 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\src\test\resources
+2023-03-11 10:40:43,674 [Worker-27: Launching Executing clean in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup
+2023-03-11 10:40:43,674 [Worker-27: Launching Executing clean in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always clean
+2023-03-11 10:40:45,092 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-11 10:40:45,094 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-03-11 10:40:45,098 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\src\test\resources
+2023-03-11 10:40:51,704 [Worker-29: Launching Executing install in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup
+2023-03-11 10:40:51,704 [Worker-29: Launching Executing install in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-03-11 10:40:59,539 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-11 10:40:59,540 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-03-11 10:40:59,544 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\src\test\resources
+2023-03-11 10:47:02,935 [Worker-31: Launching H2DatabaseSetupApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-11 10:47:02,941 [Worker-31: Launching H2DatabaseSetupApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-03-11 10:47:02,943 [Worker-31: Launching H2DatabaseSetupApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\src\test\resources
+2023-03-11 10:47:15,346 [Worker-32: Launching Executing clean in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup
+2023-03-11 10:47:15,346 [Worker-32: Launching Executing clean in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always clean
+2023-03-11 10:47:16,650 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-11 10:47:16,651 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-03-11 10:47:16,655 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\src\test\resources
+2023-03-11 10:47:21,081 [Worker-30: Launching Executing install in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup
+2023-03-11 10:47:21,081 [Worker-30: Launching Executing install in C__Users_alexy_OneDrive_Desktop_project work swiss_H2DatabaseSetup] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2023-03-11 10:47:28,556 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-11 10:47:28,557 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources
+2023-03-11 10:47:28,561 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\alexy\OneDrive\Desktop\project work swiss\H2DatabaseSetup\src\test\resources
